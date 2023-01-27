@@ -1,0 +1,15 @@
+D:\Programming\Nemetschek Bulgaria\Tasks-Nemetschek-Bulgaria\Animal Lifespan\Animal Lifespan\bin\Debug\net6.0\Animal Lifespan.exe
+D:\Programming\Nemetschek Bulgaria\Tasks-Nemetschek-Bulgaria\Animal Lifespan\Animal Lifespan\bin\Debug\net6.0\Animal Lifespan.deps.json
+D:\Programming\Nemetschek Bulgaria\Tasks-Nemetschek-Bulgaria\Animal Lifespan\Animal Lifespan\bin\Debug\net6.0\Animal Lifespan.runtimeconfig.json
+D:\Programming\Nemetschek Bulgaria\Tasks-Nemetschek-Bulgaria\Animal Lifespan\Animal Lifespan\bin\Debug\net6.0\Animal Lifespan.dll
+D:\Programming\Nemetschek Bulgaria\Tasks-Nemetschek-Bulgaria\Animal Lifespan\Animal Lifespan\bin\Debug\net6.0\Animal Lifespan.pdb
+D:\Programming\Nemetschek Bulgaria\Tasks-Nemetschek-Bulgaria\Animal Lifespan\Animal Lifespan\obj\Debug\net6.0\Animal Lifespan.csproj.AssemblyReference.cache
+D:\Programming\Nemetschek Bulgaria\Tasks-Nemetschek-Bulgaria\Animal Lifespan\Animal Lifespan\obj\Debug\net6.0\Animal Lifespan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Nemetschek Bulgaria\Tasks-Nemetschek-Bulgaria\Animal Lifespan\Animal Lifespan\obj\Debug\net6.0\Animal Lifespan.AssemblyInfoInputs.cache
+D:\Programming\Nemetschek Bulgaria\Tasks-Nemetschek-Bulgaria\Animal Lifespan\Animal Lifespan\obj\Debug\net6.0\Animal Lifespan.AssemblyInfo.cs
+D:\Programming\Nemetschek Bulgaria\Tasks-Nemetschek-Bulgaria\Animal Lifespan\Animal Lifespan\obj\Debug\net6.0\Animal Lifespan.csproj.CoreCompileInputs.cache
+D:\Programming\Nemetschek Bulgaria\Tasks-Nemetschek-Bulgaria\Animal Lifespan\Animal Lifespan\obj\Debug\net6.0\Animal Lifespan.dll
+D:\Programming\Nemetschek Bulgaria\Tasks-Nemetschek-Bulgaria\Animal Lifespan\Animal Lifespan\obj\Debug\net6.0\refint\Animal Lifespan.dll
+D:\Programming\Nemetschek Bulgaria\Tasks-Nemetschek-Bulgaria\Animal Lifespan\Animal Lifespan\obj\Debug\net6.0\Animal Lifespan.pdb
+D:\Programming\Nemetschek Bulgaria\Tasks-Nemetschek-Bulgaria\Animal Lifespan\Animal Lifespan\obj\Debug\net6.0\Animal Lifespan.genruntimeconfig.cache
+D:\Programming\Nemetschek Bulgaria\Tasks-Nemetschek-Bulgaria\Animal Lifespan\Animal Lifespan\obj\Debug\net6.0\ref\Animal Lifespan.dll
