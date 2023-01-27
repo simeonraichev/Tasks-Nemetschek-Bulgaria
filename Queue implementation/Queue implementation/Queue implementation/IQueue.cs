@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Queue_implementation
 {
-    internal class ArrayQueue
+    interface IQueue<T>
     {
+        void Enqueue(T item);
+        T Dequeue();
+        T Peek();
+        int Count { get; }
     }
 }
